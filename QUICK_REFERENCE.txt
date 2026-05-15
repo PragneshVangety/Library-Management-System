@@ -1,0 +1,82 @@
+╔═══════════════════════════════════════════════════════════════╗
+║         LIBRARY MANAGEMENT SYSTEM - QUICK REFERENCE          ║
+║                    FACULTY PRESENTATION                       ║
+╚═══════════════════════════════════════════════════════════════╝
+
+┌─────────────────────────────────────────────────────────────┐
+│ 🚀 FASTEST WAY TO START                                     │
+└─────────────────────────────────────────────────────────────┘
+  Double-click: START_DEMO.bat
+  Wait 2 minutes, browser opens automatically!
+
+┌─────────────────────────────────────────────────────────────┐
+│ 🔐 LOGIN CREDENTIALS (MEMORIZE THESE!)                      │
+└─────────────────────────────────────────────────────────────┘
+  
+  ADMIN:
+  ├─ Email:    admin@library.com
+  └─ Password: admin123
+  
+  USER:
+  ├─ Email:    user@library.com
+  └─ Password: user123
+
+┌─────────────────────────────────────────────────────────────┐
+│ 🌐 APPLICATION URLS                                         │
+└─────────────────────────────────────────────────────────────┘
+  Frontend: http://localhost:3000
+  Backend:  http://localhost:9090/api
+
+┌─────────────────────────────────────────────────────────────┐
+│ 📋 DEMO FLOW (10 MINUTES)                                   │
+└─────────────────────────────────────────────────────────────┘
+  1. Login as ADMIN → Show dashboard
+  2. Books Management → Add a book
+  3. Users Management → Show user list
+  4. Logout → Login as USER
+  5. Browse Books → Show catalog
+  6. My Books → Show borrowed books
+
+┌─────────────────────────────────────────────────────────────┐
+│ 🎯 KEY FEATURES TO MENTION                                  │
+└─────────────────────────────────────────────────────────────┘
+  ✓ Full-stack: Spring Boot + React
+  ✓ JWT Authentication
+  ✓ Role-based Access Control
+  ✓ RESTful APIs
+  ✓ Material-UI Design
+  ✓ H2 In-Memory Database
+
+┌─────────────────────────────────────────────────────────────┐
+│ 🚨 IF SOMETHING GOES WRONG                                  │
+└─────────────────────────────────────────────────────────────┘
+  Login fails?
+  → Clear browser cache (Ctrl+Shift+Delete)
+  → Refresh page (Ctrl+F5)
+  
+  Server won't start?
+  → Close all Java/Node processes
+  → Run START_DEMO.bat again
+
+┌─────────────────────────────────────────────────────────────┐
+│ ✅ PRE-DEMO CHECKLIST (5 MIN BEFORE)                        │
+└─────────────────────────────────────────────────────────────┘
+  □ Run START_DEMO.bat
+  □ Wait for browser to open
+  □ Test admin login
+  □ Test user login
+  □ Close extra browser tabs
+  □ Keep this file visible
+
+┌─────────────────────────────────────────────────────────────┐
+│ 💡 PRO TIPS                                                 │
+└─────────────────────────────────────────────────────────────┘
+  • Keep terminal windows visible (shows it's live)
+  • Have credentials written on paper as backup
+  • Test everything 10 minutes before presentation
+  • Use incognito mode if cache issues occur
+  • Zoom in browser (Ctrl +) for better visibility
+
+╔═══════════════════════════════════════════════════════════════╗
+║  YOU'RE READY! GOOD LUCK WITH YOUR PRESENTATION! 🎉          ║
+╚═══════════════════════════════════════════════════════════════╝
